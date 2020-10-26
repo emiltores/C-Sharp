@@ -23,7 +23,6 @@ namespace propiedades
             Console.WriteLine(a.Id);
             Console.WriteLine(b.Id);
             Console.WriteLine(c.Id);
-            Console.WriteLine(d.PrimerNombre + " " + d.SegundoNombre);
         }
     }
 }
